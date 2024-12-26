@@ -32,4 +32,4 @@ Music is an integral part of my life. I have a deep appreciation for Persian tra
 Feel free to reach out if you share similar interests or would like to collaborate on exciting research projects. You can connect with me via [LinkedIn](https://www.linkedin.com/) or [GitHub](https://github.com/).
 
 ---
-*"Music is a language of its own, and AI can help us uncover its untold stories."*
+*"To play a wrong note is insignificant; to play without passion is inexcusable."*
