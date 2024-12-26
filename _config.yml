@@ -25,7 +25,7 @@ author:
   name             : "Diba Hadi Esfangereh"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
+  location         : "Iran, Tehran"
   employer         : "Sharif University of Technology"
   uri              : # URL
   email            : "diba.hadie@gmail.com" 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
